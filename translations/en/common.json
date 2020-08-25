@@ -1,0 +1,22 @@
+{
+  "welcome": {
+    "welcome": "Welcome!",
+    "welcomeSubtitle": "This is your lucky day: You don't have to do the app from scratch!",
+    "nextPage": "Next Page",
+    "typeName": "Type your name...",
+    "listitem": "Go to List Item",
+    "title": "Title",
+    "subtitle": "Subtitle"
+  },
+  "hello": {
+    "hello": "Hello {{name}}!"
+  },
+  "language": {
+    "switchTo": "Switch to French"
+  },
+  "error": {
+    "nameRequired": "Name is required",
+    "titleRequired": "Title is required",
+    "subRequired": "Subtitle is required"
+  }
+}
